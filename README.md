@@ -6,6 +6,8 @@ There were no existing public projects which took a crosshair sharecode to rende
 
 Most obviously, having your crosshair always enabled is helpful in scenarios when the game otherwise disables the crosshair, e.g. when using an AWP or SSG 08.
 
+![]https://github.com/Chungmire/CS2-Crosshair-Overlay/blob/main/Example.gif
+
 Additionally, this assists with the efficacy of object detection aimbot programs which grab images from the game's video stream rather than from the entire desktop. Without a crosshair taking up valuable pixels, the confidence rate increases when the crosshair would otherwise be over an enemy.
 
 
