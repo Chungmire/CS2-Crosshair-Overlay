@@ -1,6 +1,6 @@
 # CS2-Crosshair-Overlay
 
-Oddly enough, there were no existing public projects which took a crosshair sharecode to render the CSGO/CS2 crosshair as an overlay over the entire screen, so I embarked upon this little C# project to accomplish this.
+There were no existing public projects which took a crosshair sharecode to render the CSGO/CS2 crosshair as an overlay over the entire screen, so I embarked upon this little C# project to accomplish this.
 
 ## Use cases
 
