@@ -1,0 +1,2 @@
+ShareCode=CSGO-aeEnQ-695dM-EbwPt-6SedC-QprFF
+ToggleKey=Insert
