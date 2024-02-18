@@ -26,10 +26,13 @@ To account for this, the program outputs a `crosshair.png` file in the directory
 ---
 
 ## Limitations & Future Work
-> _Note: Feel free to suggest changes. While I won't be working on this project personally, I will gladly review and accept pull requests._
+> _Note: While I won't be working on this project personally since it works & I have other work to do, I will gladly review and accept pull requests._
 1. Renders only the crosshair as the game would at 1920x1080 resolution as the scaling factor for other resolutions is not implemented. You can play at any resolution.
 2. The RGB color displayed is technically accurate, however it does not always match with what the game displays. The values "Red" "Green" "Blue" seem to have different weights in-game resulting in colors you wouldn't expect (ex. blue when it should be green). To get around this you can just adjust the values and try new sharecodes until it's to your liking.
 3. Only static crosshairs are supported.
 4. Only common and reasonable length, gap, etc. values are supported. You shouldn't be running into issues with this.
 5. Fullscreen is not supported and likely cannot be supported given the invasive route needed to accomplish that.
-6. There is plenty of room for prettying up the code.
+6. Whether or not to output crosshair.png should be an option in the config.
+7. Whether or not the program launches with a window in the taskbar should be an option in the config
+8. Program needs an icon.
+9. There is plenty of room for prettying up the code.
