@@ -13,7 +13,7 @@ Additionally, this assists with the efficacy of object detection aimbot programs
 
 ## Usage
 
-1. Download from Releases.
+1. Download from [Releases](https://github.com/Chungmire/CS2-Crosshair-Overlay/files/14324202/1.0.zip).
 2. Copy crosshair sharecode from game.
 3. Open config.txt and paste the sharecode after `Sharecode=`
 4. (Optional) Change toggle key. Default is Insert. Keycodes found [here](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.keys?view=windowsdesktop-8.0) 
