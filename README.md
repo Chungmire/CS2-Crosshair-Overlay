@@ -1,6 +1,6 @@
 # CS2-Crosshair-Overlay
 
-There were no existing public projects which took a crosshair sharecode to render the corresponding CSGO/CS2 crosshair as an overlay over the entire screen, so I embarked upon this little C# project to accomplish this. It should go without saying that this is not VAC detected nor is it VAC detectable as it does not interact with the game process in any way.
+There were no existing projects which took a crosshair sharecode to render the corresponding CSGO/CS2 crosshair as an overlay over the entire screen, so I embarked upon this lil C# project. It should go without saying that this is not VAC detected nor is it VAC detectable as it does not interact with the game process in any way.
 
 ## Use cases
 
